@@ -187,7 +187,7 @@ if secim == "4":
 # Webhook
 
 #webhook_url kısmınıza Webhook URL'nizi giriniz yoksa hata verir.
-webhook_url = ""
+webhook_url = "https://discordapp.com/api/webhooks/"
 
 if secim == "5":
     print("Tüm Kurları Webhook'a bastırıyorum... ")
