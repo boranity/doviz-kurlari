@@ -3,7 +3,7 @@
 
 ```pip3 install bs4```
 
-## Opsiyonel Olarak Discord Webhook'una bastırmak istiyorsanız yüklemen gereken modül (Webhook URL'nizi 190. satırdan eklebilirsiniz!)
+## Opsiyonel Olarak Discord Webhook'una bastırmak istiyorsanız yüklemeniz gereken modül (Webhook URL'nizi 190. satırdan ekleyebilirsiniz!)
 ```pip3 install discord-webhook```
 
 # Eklenenler 
